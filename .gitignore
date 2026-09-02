@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+# local delegation benchmark (spec, its acceptance suite, and the lane working copies)
+.lanes/
+.lane-spec.md
+/test_custom_dest.py
